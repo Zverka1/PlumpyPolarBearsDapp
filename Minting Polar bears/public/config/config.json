@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5985624885d90a2030496efec9407257ae807f55",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5985624885d90a2030496efec9407257ae807f55",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Plumpy Polar Bears",
+  "SYMBOL": "PPB",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 6000000000000000000,
+  "DISPLAY_COST": 6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/plumpy-polar-bears",
+  "SHOW_BACKGROUND": true
+}
