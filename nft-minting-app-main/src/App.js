@@ -249,13 +249,13 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("https://www.instagram.com/plumpyanimalsnft/", "_blank");
+                  window.open("/config/roadmap.pdf", "_blank");
                 }}
                 style={{
                   margin: "5px",
                 }}
               >
-                Instagram
+                Roadmap
               </StyledButton>
               <StyledButton
                 style={{
